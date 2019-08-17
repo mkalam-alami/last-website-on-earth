@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, #menu, #contents, #contents-iframe {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  color: white;
+  font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#menu {
+  display: inline-block;
+  width: 15%;
+  padding: 10px;
+}
+
+#contents {
+  display: inline-block;
+  width: 84%;
+  vertical-align: top;
+  padding: 10px;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+#menu-iframe {
+  padding: 10px;
+}
+
+
+body {
+  background-color: #111;
+}
+
+h1, h2, h3, h4, h5 {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  color: #ADF;
+}
+a:hover {
+  text-decoration: underline;
+}

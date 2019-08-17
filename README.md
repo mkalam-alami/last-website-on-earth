@@ -1,2 +1,3 @@
-# last-website-on-earth
-A Climate Change Jam entry
+# The Last Website on Earth
+
+A Climate Change Jam entry.
