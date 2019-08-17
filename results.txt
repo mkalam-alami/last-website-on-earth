@@ -1,0 +1,3531 @@
+<table>
+    <tr>
+      <th>Station</th>
+      <th>Status</th>
+      <th>Comms</th>
+      <th>Frequency</th>
+    </tr>
+  <tr>
+  <td>TEP-074</td>
+  <td>Active </td>
+  <td>Eryn Nicolas</td>
+  <td>1.260 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-075</td>
+  <td>Active (Escape trajectory)</td>
+  <td>Coleman</td>
+  <td>1.412 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-079</td>
+  <td>Active </td>
+  <td>Gisselle Kessler</td>
+  <td>1.323 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-084</td>
+  <td>Active </td>
+  <td>Violet Lubowitz</td>
+  <td>1.482 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-087</td>
+  <td>Active </td>
+  <td>Isac Smitham</td>
+  <td>1.649 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-094</td>
+  <td>Active </td>
+  <td>Edwina</td>
+  <td>1.570 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-110</td>
+  <td>Active </td>
+  <td>Demarco Monahan</td>
+  <td>1.683 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-111</td>
+  <td>Active </td>
+  <td>Alana</td>
+  <td>1.294 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-114</td>
+  <td>Active </td>
+  <td>Abigale Ziemann</td>
+  <td>1.711 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-117</td>
+  <td>Active </td>
+  <td>Isabell Fay</td>
+  <td>1.416 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-118</td>
+  <td>Active </td>
+  <td>Harry Hyatt</td>
+  <td>1.437 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-128</td>
+  <td>Active </td>
+  <td>Ladarius Zieme</td>
+  <td>1.774 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-130</td>
+  <td>Active </td>
+  <td>Monroe Abbott</td>
+  <td>1.668 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-133</td>
+  <td>Active </td>
+  <td>Jacky Wunsch</td>
+  <td>1.503 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-138</td>
+  <td>Active </td>
+  <td>Bennett Heller</td>
+  <td>1.543 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-142</td>
+  <td>Active </td>
+  <td>Benedict Trantow</td>
+  <td>1.389 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-145</td>
+  <td>Active </td>
+  <td>Stefanie Bauch</td>
+  <td>1.211 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-151</td>
+  <td>Active (Escape trajectory)</td>
+  <td>Monserrate</td>
+  <td>1.489 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-162</td>
+  <td>Active </td>
+  <td>Timothy Walker</td>
+  <td>1.596 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-183</td>
+  <td>Active </td>
+  <td>Lou</td>
+  <td>1.413 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-187</td>
+  <td>Active </td>
+  <td>Violette Becker</td>
+  <td>1.643 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-192</td>
+  <td>Active </td>
+  <td>Mariano Hansen</td>
+  <td>1.612 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-199</td>
+  <td>Active </td>
+  <td>Lea Bosco</td>
+  <td>1.522 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-215</td>
+  <td>Active </td>
+  <td>Eldora</td>
+  <td>1.384 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-217</td>
+  <td>Active </td>
+  <td>Durward Greenholt</td>
+  <td>1.768 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-233</td>
+  <td>Active </td>
+  <td>Luella Hamill</td>
+  <td>1.335 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-237</td>
+  <td>Active </td>
+  <td>Jamal Fay</td>
+  <td>1.694 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-240</td>
+  <td>Active </td>
+  <td>Gerhard Reichert</td>
+  <td>1.287 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-251</td>
+  <td>Active </td>
+  <td>Ruth</td>
+  <td>1.451 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-255</td>
+  <td>Active </td>
+  <td>Dion Zulauf</td>
+  <td>1.382 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-257</td>
+  <td>Active </td>
+  <td>Kirk Christiansen</td>
+  <td>1.283 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-264</td>
+  <td>Active </td>
+  <td>Judah Lang</td>
+  <td>1.547 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-291</td>
+  <td>Active </td>
+  <td>Madonna Reichert</td>
+  <td>1.742 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-296</td>
+  <td>Active </td>
+  <td>Vidal Corkery</td>
+  <td>1.331 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-316</td>
+  <td>Active </td>
+  <td>Betty Brakus</td>
+  <td>1.762 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-322</td>
+  <td>Active (Escape trajectory)</td>
+  <td>Dannie Strosin</td>
+  <td>1.392 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-324</td>
+  <td>Active </td>
+  <td>Dillon Leffler</td>
+  <td>1.491 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-331</td>
+  <td>Active </td>
+  <td>Pietro</td>
+  <td>1.208 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-357</td>
+  <td>Active </td>
+  <td>Annalise Rowe</td>
+  <td>1.246 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-360</td>
+  <td>Active </td>
+  <td>Loyal</td>
+  <td>1.585 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-373</td>
+  <td>Active </td>
+  <td>Josefa</td>
+  <td>1.748 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-375</td>
+  <td>Active </td>
+  <td>Jedediah Wintheiser</td>
+  <td>1.376 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-392</td>
+  <td>Active </td>
+  <td>Gianni Wisoky</td>
+  <td>1.770 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-399</td>
+  <td>Active </td>
+  <td>Freddy Brown</td>
+  <td>1.500 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-409</td>
+  <td>Active </td>
+  <td>Lysanne Lehner</td>
+  <td>1.695 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-413</td>
+  <td>Active </td>
+  <td>Lyla Raynor</td>
+  <td>1.613 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-421</td>
+  <td>Active </td>
+  <td>Alice Turner</td>
+  <td>1.386 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-432</td>
+  <td>Active </td>
+  <td>Kurtis</td>
+  <td>1.780 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-435</td>
+  <td>Active </td>
+  <td>Lera Gerhold</td>
+  <td>1.473 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-449</td>
+  <td>Active (Escape trajectory)</td>
+  <td>Jessica Beatty</td>
+  <td>1.308 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-452</td>
+  <td>Active </td>
+  <td>Norberto Price</td>
+  <td>1.601 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-453</td>
+  <td>Active </td>
+  <td>Katelynn Hoppe</td>
+  <td>1.798 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-456</td>
+  <td>Active </td>
+  <td>Beatrice McGlynn</td>
+  <td>1.595 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-459</td>
+  <td>Active </td>
+  <td>Rubye Braun</td>
+  <td>1.638 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-463</td>
+  <td>Active </td>
+  <td>Eloisa</td>
+  <td>1.242 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-465</td>
+  <td>Active </td>
+  <td>Ramiro Powlowski</td>
+  <td>1.210 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-466</td>
+  <td>Active </td>
+  <td>Dorris Walter</td>
+  <td>1.714 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-474</td>
+  <td>Active </td>
+  <td>Benny Bode</td>
+  <td>1.622 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-477</td>
+  <td>Active </td>
+  <td>Tod</td>
+  <td>1.793 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-489</td>
+  <td>Active (Escape trajectory)</td>
+  <td>Teresa Dietrich</td>
+  <td>1.706 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-492</td>
+  <td>Active </td>
+  <td>Lura Mohr</td>
+  <td>1.363 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-502</td>
+  <td>Active </td>
+  <td>Dawson Spinka</td>
+  <td>1.764 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-511</td>
+  <td>Active </td>
+  <td>Jeffery Swaniawski</td>
+  <td>1.563 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-515</td>
+  <td>Active </td>
+  <td>Gideon Walker</td>
+  <td>1.611 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-529</td>
+  <td>Active </td>
+  <td>Korey</td>
+  <td>1.261 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-530</td>
+  <td>Active </td>
+  <td>Maud</td>
+  <td>1.763 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-536</td>
+  <td>Active </td>
+  <td>Lenny Bernhard</td>
+  <td>1.331 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-552</td>
+  <td>Active </td>
+  <td>Caroline Davis</td>
+  <td>1.651 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-553</td>
+  <td>Active </td>
+  <td>Bradly Gleason</td>
+  <td>1.620 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-565</td>
+  <td>Active </td>
+  <td>Karolann</td>
+  <td>1.456 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-574</td>
+  <td>Active </td>
+  <td>Kaia Lind</td>
+  <td>1.738 GHz</td>
+</tr>
+
+</table> 
+
+
+
+ <table>
+    <tr>
+      <th>Station</th>
+      <th>Status</th>
+      <th>Comms</th>
+      <th>Frequency</th>
+    </tr>
+  <tr>
+  <td>TEP-081</td>
+  <td>Rogue (Active hostile behaviour, AVOID ORBIT MATCH AT ALL COSTS!)</td>
+  <td>Marshall Gutkowski</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-090</td>
+  <td>Rogue (No contact)</td>
+  <td>Willard Mraz</td>
+  <td>1.731 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-091</td>
+  <td>Rogue (No contact)</td>
+  <td></td>
+  <td>1.640 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-096</td>
+  <td>Rogue (Passive hostile behaviour)</td>
+  <td>Emily Dibbert</td>
+  <td>1.592 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-112</td>
+  <td>Rogue (No contact)</td>
+  <td></td>
+  <td>1.480 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-122</td>
+  <td>Rogue (No contact)</td>
+  <td>Ethelyn Buckridge</td>
+  <td>1.376 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-137</td>
+  <td>Rogue (No contact)</td>
+  <td>Eda Luettgen</td>
+  <td>1.267 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-157</td>
+  <td>Rogue (Passive hostile behaviour)</td>
+  <td>Iva Kemmer</td>
+  <td>1.339 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-204</td>
+  <td>Rogue (Active hostile behaviour, AVOID ORBIT MATCH AT ALL COSTS!)</td>
+  <td>Mellie Conroy</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-211</td>
+  <td>Rogue (No contact)</td>
+  <td>Felicia</td>
+  <td>1.514 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-212</td>
+  <td>Rogue (Passive hostile behaviour)</td>
+  <td>Otha Kris</td>
+  <td>1.761 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-229</td>
+  <td>Rogue (No contact)</td>
+  <td>Caterina Ondricka</td>
+  <td>1.673 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-246</td>
+  <td>Rogue (No contact)</td>
+  <td></td>
+  <td>1.521 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-252</td>
+  <td>Rogue (No contact)</td>
+  <td>Breanne Konopelski</td>
+  <td>1.401 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-263</td>
+  <td>Rogue (No contact)</td>
+  <td>Stanton</td>
+  <td>1.634 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-265</td>
+  <td>Rogue (Passive hostile behaviour)</td>
+  <td>Teagan Dickinson</td>
+  <td>1.499 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-284</td>
+  <td>Rogue (No contact)</td>
+  <td>Megane</td>
+  <td>1.312 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-301</td>
+  <td>Rogue (No contact)</td>
+  <td>Corene Pouros</td>
+  <td>1.427 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-303</td>
+  <td>Rogue (Active hostile behaviour, AVOID ORBIT MATCH AT ALL COSTS!)</td>
+  <td>Everett Willms</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-308</td>
+  <td>Rogue (No contact)</td>
+  <td></td>
+  <td>1.337 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-327</td>
+  <td>Rogue (No contact)</td>
+  <td>Valentin</td>
+  <td>1.352 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-352</td>
+  <td>Rogue (No contact)</td>
+  <td>Carmela</td>
+  <td>1.697 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-371</td>
+  <td>Rogue (No contact)</td>
+  <td>Kelsie Durgan</td>
+  <td>1.384 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-410</td>
+  <td>Rogue (No contact)</td>
+  <td>Elaina Mueller</td>
+  <td>1.314 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-430</td>
+  <td>Rogue (No contact)</td>
+  <td></td>
+  <td>1.533 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-439</td>
+  <td>Rogue (No contact)</td>
+  <td>Hanna Kreiger</td>
+  <td>1.510 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-487</td>
+  <td>Rogue (No contact)</td>
+  <td>Valerie Price</td>
+  <td>1.447 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-493</td>
+  <td>Rogue (Passive hostile behaviour)</td>
+  <td>Rosemarie Greenfelder</td>
+  <td>1.787 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-499</td>
+  <td>Rogue (No contact)</td>
+  <td>Daren Haag</td>
+  <td>1.429 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-519</td>
+  <td>Rogue (Passive hostile behaviour)</td>
+  <td></td>
+  <td>1.513 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-556</td>
+  <td>Rogue (Active hostile behaviour, AVOID ORBIT MATCH AT ALL COSTS!)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-561</td>
+  <td>Rogue (No contact)</td>
+  <td>Fermin Stamm</td>
+  <td>1.688 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-581</td>
+  <td>Rogue (No contact)</td>
+  <td>Brendon Herzog</td>
+  <td>1.474 GHz</td>
+</tr>
+
+</table> 
+
+
+
+ <table>
+    <tr>
+      <th>Station</th>
+      <th>Status</th>
+      <th>Comms</th>
+      <th>Frequency</th>
+    </tr>
+  <tr>
+  <td>TEP-582</td>
+  <td>Destroyed Sep 2106 (Water recycling failure)</td>
+  <td>Elfrieda Hudson</td>
+  <td>1.633 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-580</td>
+  <td>Destroyed Aug 2112 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-579</td>
+  <td>Destroyed May 2113 (Unusable greenhouse)</td>
+  <td>Ayla Rodriguez</td>
+  <td>1.594 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-578</td>
+  <td>Destroyed Jan 2132 (Oxygen recycling failure)</td>
+  <td>Rozella Lynch</td>
+  <td>1.743 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-577</td>
+  <td>Destroyed Jun 2080 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-576</td>
+  <td>Destroyed Dec 2104 (Depressurization)</td>
+  <td>Olen Armstrong</td>
+  <td>1.669 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-575</td>
+  <td>Destroyed Mar 2100 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-573</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-572</td>
+  <td>Destroyed Jan 2137 (Fire related incident)</td>
+  <td>Darion</td>
+  <td>1.730 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-571</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Karina Gislason</td>
+  <td>1.477 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-570</td>
+  <td>Destroyed Feb 2084 (Reactor explosion)</td>
+  <td>Carey Yundt</td>
+  <td>1.564 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-569</td>
+  <td>Destroyed Jul 2109 (Unusable greenhouse)</td>
+  <td>Buck</td>
+  <td>1.398 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-568</td>
+  <td>Destroyed Nov 2114 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-567</td>
+  <td>Destroyed Sep 2124 (Depressurization)</td>
+  <td>Mitchell Gislason</td>
+  <td>1.734 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-566</td>
+  <td>Destroyed Nov 2095 (Oxygen recycling failure)</td>
+  <td>Chaim Kris</td>
+  <td>1.251 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-564</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-563</td>
+  <td>Destroyed Mar 2113 (Oxygen recycling failure)</td>
+  <td>Uriel</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-562</td>
+  <td>Destroyed Jan 2117 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-560</td>
+  <td>Destroyed Jun 2115 (Unusable greenhouse)</td>
+  <td>Delta Romaguera</td>
+  <td>1.456 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-559</td>
+  <td>Destroyed Dec 2127 (Reactor explosion)</td>
+  <td>Frederick</td>
+  <td>1.632 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-558</td>
+  <td>Destroyed Dec 2122 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-557</td>
+  <td>Destroyed Oct 2107 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-555</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Oral</td>
+  <td>1.443 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-554</td>
+  <td>Destroyed Jul 2087 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-551</td>
+  <td>Destroyed Sep 2109 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-550</td>
+  <td>Destroyed Jun 2123 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-549</td>
+  <td>Destroyed Mar 2091 (Water recycling failure)</td>
+  <td>Haylee Mayert</td>
+  <td>1.607 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-548</td>
+  <td>Destroyed Sep 2105 (Unusable greenhouse)</td>
+  <td>Eloise Swaniawski</td>
+  <td>1.212 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-547</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Thea Dach</td>
+  <td>1.248 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-546</td>
+  <td>Destroyed Oct 2084 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-545</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-544</td>
+  <td>Destroyed May 2102 (Oxygen recycling failure)</td>
+  <td>Colleen</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-543</td>
+  <td>Destroyed Feb 2132 (Unusable greenhouse)</td>
+  <td>Nakia Witting</td>
+  <td>1.797 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-542</td>
+  <td>Destroyed Dec 2079 (Fire related incident)</td>
+  <td>Keenan Mante</td>
+  <td>1.233 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-541</td>
+  <td>Destroyed Jan 2127 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-540</td>
+  <td>Destroyed Mar 2088 (Hull breach)</td>
+  <td>Michael</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-539</td>
+  <td>Destroyed Aug 2136 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-538</td>
+  <td>Destroyed Feb 2138 (Fire related incident)</td>
+  <td>Christy Rempel</td>
+  <td>1.323 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-537</td>
+  <td>Destroyed Sep 2128 (Depressurization)</td>
+  <td>Kirk Langworth</td>
+  <td>1.644 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-535</td>
+  <td>Destroyed Nov 2084 (Depressurization)</td>
+  <td>Gustave Fritsch</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-534</td>
+  <td>Destroyed Oct 2086 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-533</td>
+  <td>Destroyed Jul 2138 (Oxygen recycling failure)</td>
+  <td>Edd Simonis</td>
+  <td>1.272 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-532</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-531</td>
+  <td>Destroyed Jul 2079 (Electrics related incident)</td>
+  <td>Ewell Schimmel</td>
+  <td>1.269 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-528</td>
+  <td>Destroyed Feb 2087 (Fire related incident)</td>
+  <td>Gust</td>
+  <td>1.463 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-527</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Lamar</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-526</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Fae MacGyver</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-525</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Johathan Osinski</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-524</td>
+  <td>Destroyed Jun 2119 (Electrics related incident)</td>
+  <td>Kaela Herzog</td>
+  <td>1.235 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-523</td>
+  <td>Destroyed Feb 2138 (Reactor explosion)</td>
+  <td>Monserrat Lang</td>
+  <td>1.697 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-522</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Kaley Carroll</td>
+  <td>1.699 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-521</td>
+  <td>Destroyed Aug 2117 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-520</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Frieda Will</td>
+  <td>1.243 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-518</td>
+  <td>Destroyed Nov 2131 (Fire related incident)</td>
+  <td>Tressa</td>
+  <td>1.225 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-517</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-516</td>
+  <td>Destroyed Sep 2123 (Oxygen recycling failure)</td>
+  <td>Tess</td>
+  <td>1.628 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-514</td>
+  <td>Destroyed Jul 2110 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-513</td>
+  <td>Destroyed Apr 2116 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-512</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-510</td>
+  <td>Destroyed Apr 2116 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-509</td>
+  <td>Destroyed Nov 2124 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-508</td>
+  <td>Destroyed Sep 2084 (Depressurization)</td>
+  <td>Robbie</td>
+  <td>1.642 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-507</td>
+  <td>Destroyed Apr 2142 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-506</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Tyson Mertz</td>
+  <td>1.488 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-505</td>
+  <td>Destroyed May 2125 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-504</td>
+  <td>Destroyed Nov 2128 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-503</td>
+  <td>Destroyed Feb 2096 (Depressurization)</td>
+  <td>Brain Johns</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-501</td>
+  <td>Destroyed Sep 2120 (Fire related incident)</td>
+  <td>Hudson Kiehn</td>
+  <td>1.697 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-500</td>
+  <td>Destroyed Apr 2082 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-498</td>
+  <td>Destroyed Nov 2114 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-497</td>
+  <td>Destroyed Sep 2119 (Depressurization)</td>
+  <td>Jamel</td>
+  <td>1.219 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-496</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-495</td>
+  <td>Destroyed Nov 2125 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-494</td>
+  <td>Destroyed Aug 2127 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-491</td>
+  <td>Destroyed Oct 2102 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-490</td>
+  <td>Destroyed Nov 2123 (Electrics related incident)</td>
+  <td>Rod</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-488</td>
+  <td>Destroyed Nov 2141 (Unusable greenhouse)</td>
+  <td>Zita Okuneva</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-486</td>
+  <td>Destroyed Jul 2078 (Oxygen recycling failure)</td>
+  <td>Zechariah Greenfelder</td>
+  <td>1.302 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-485</td>
+  <td>Destroyed Sep 2092 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-484</td>
+  <td>Destroyed Apr 2113 (Oxygen recycling failure)</td>
+  <td>Theodora Weissnat</td>
+  <td>1.581 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-483</td>
+  <td>Destroyed May 2139 (Reactor explosion)</td>
+  <td>Kenyatta Crooks</td>
+  <td>1.549 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-482</td>
+  <td>Destroyed Sep 2114 (Unusable greenhouse)</td>
+  <td>Vito Ankunding</td>
+  <td>1.685 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-481</td>
+  <td>Destroyed Apr 2140 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-480</td>
+  <td>Destroyed Mar 2104 (Fire related incident)</td>
+  <td>Richard Yundt</td>
+  <td>1.568 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-479</td>
+  <td>Destroyed Apr 2086 (Electrics related incident)</td>
+  <td>Jennie Cole</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-478</td>
+  <td>Destroyed Nov 2138 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-476</td>
+  <td>Destroyed Jun 2111 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-475</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-473</td>
+  <td>Destroyed May 2095 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-472</td>
+  <td>Destroyed May 2112 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-471</td>
+  <td>Destroyed Jul 2104 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-470</td>
+  <td>Destroyed Feb 2085 (Water recycling failure)</td>
+  <td>Natasha Hagenes</td>
+  <td>1.412 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-469</td>
+  <td>Destroyed Apr 2112 (Depressurization)</td>
+  <td>Frida Mante</td>
+  <td>1.241 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-468</td>
+  <td>Destroyed Feb 2120 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-467</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-464</td>
+  <td>Destroyed Sep 2084 (Depressurization)</td>
+  <td>Aiden Cole</td>
+  <td>1.445 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-462</td>
+  <td>Destroyed Feb 2082 (Hull breach)</td>
+  <td>Melissa Rolfson</td>
+  <td>1.754 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-461</td>
+  <td>Destroyed May 2138 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-460</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-458</td>
+  <td>Destroyed Feb 2116 (Depressurization)</td>
+  <td>Peter Schimmel</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-457</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-455</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Tyson</td>
+  <td>1.647 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-454</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-451</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-450</td>
+  <td>Destroyed Feb 2088 (Unknown)</td>
+  <td>Ludwig Zieme</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-448</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Josiah Greenholt</td>
+  <td>1.557 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-447</td>
+  <td>Destroyed Nov 2138 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-446</td>
+  <td>Destroyed Jan 2130 (Water recycling failure)</td>
+  <td>Lewis Lemke</td>
+  <td>1.466 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-445</td>
+  <td>Destroyed Oct 2097 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-444</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-443</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-442</td>
+  <td>Destroyed Oct 2111 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-441</td>
+  <td>Destroyed Jun 2122 (Oxygen recycling failure)</td>
+  <td>Sabrina Keebler</td>
+  <td>1.714 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-440</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-438</td>
+  <td>Destroyed Jul 2078 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-437</td>
+  <td>Destroyed Oct 2116 (Depressurization)</td>
+  <td>Landen Champlin</td>
+  <td>1.599 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-436</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-434</td>
+  <td>Destroyed Jun 2111 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-433</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-431</td>
+  <td>Destroyed Dec 2117 (Depressurization)</td>
+  <td>Jolie Rath</td>
+  <td>1.568 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-429</td>
+  <td>Destroyed Jul 2137 (Unusable greenhouse)</td>
+  <td>Katelyn Adams</td>
+  <td>1.474 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-428</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-427</td>
+  <td>Destroyed May 2120 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-426</td>
+  <td>Destroyed Nov 2140 (Water recycling failure)</td>
+  <td>Maud Brekke</td>
+  <td>1.529 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-425</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-424</td>
+  <td>Destroyed Apr 2085 (Fire related incident)</td>
+  <td>Callie Boehm</td>
+  <td>1.477 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-423</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-422</td>
+  <td>Destroyed Nov 2134 (Electrics related incident)</td>
+  <td>Ollie Cormier</td>
+  <td>1.559 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-420</td>
+  <td>Destroyed Aug 2098 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-419</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Marjory Collier</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-418</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Francesco Kunde</td>
+  <td>1.759 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-417</td>
+  <td>Destroyed Jun 2082 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-416</td>
+  <td>Destroyed Aug 2106 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-415</td>
+  <td>Destroyed Feb 2133 (Reactor explosion)</td>
+  <td>Sid</td>
+  <td>1.311 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-414</td>
+  <td>Destroyed Mar 2092 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-412</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-411</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Durward</td>
+  <td>1.750 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-408</td>
+  <td>Destroyed Jul 2134 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-407</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-406</td>
+  <td>Destroyed Sep 2124 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-405</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-404</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Tremaine O'Reilly</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-403</td>
+  <td>Destroyed Oct 2132 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-402</td>
+  <td>Destroyed Feb 2123 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-401</td>
+  <td>Destroyed Nov 2135 (Unknown)</td>
+  <td>Charlotte</td>
+  <td>1.585 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-400</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-398</td>
+  <td>Destroyed Feb 2116 (Fire related incident)</td>
+  <td>Jarrell Miller</td>
+  <td>1.290 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-397</td>
+  <td>Destroyed Nov 2127 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-396</td>
+  <td>Destroyed Feb 2115 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-395</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Tristin Kuhlman</td>
+  <td>1.568 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-394</td>
+  <td>Destroyed Mar 2129 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-393</td>
+  <td>Destroyed Dec 2083 (Unknown)</td>
+  <td>Edwina Considine</td>
+  <td>1.614 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-391</td>
+  <td>Destroyed Sep 2090 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-390</td>
+  <td>Destroyed Sep 2136 (Hull breach)</td>
+  <td>Hoyt Dare</td>
+  <td>1.695 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-389</td>
+  <td>Destroyed Jul 2120 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-388</td>
+  <td>Destroyed May 2139 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-387</td>
+  <td>Destroyed Jul 2124 (Unknown)</td>
+  <td>Kali</td>
+  <td>1.692 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-386</td>
+  <td>Destroyed Aug 2082 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-385</td>
+  <td>Destroyed Nov 2103 (Fire related incident)</td>
+  <td>Brant Marvin</td>
+  <td>1.767 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-384</td>
+  <td>Destroyed Sep 2134 (Unknown)</td>
+  <td>Ola Dibbert</td>
+  <td>1.736 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-383</td>
+  <td>Destroyed Mar 2081 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-382</td>
+  <td>Destroyed Sep 2128 (Fire related incident)</td>
+  <td>Elmore Howell</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-381</td>
+  <td>Destroyed May 2082 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-380</td>
+  <td>Destroyed Jul 2079 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-379</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-378</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-377</td>
+  <td>Destroyed Apr 2125 (Hull breach)</td>
+  <td>Lily McDermott</td>
+  <td>1.375 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-376</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-374</td>
+  <td>Destroyed Apr 2111 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-372</td>
+  <td>Destroyed Nov 2097 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-370</td>
+  <td>Destroyed Jan 2100 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-369</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-368</td>
+  <td>Destroyed Jul 2097 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-367</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-366</td>
+  <td>Destroyed Jul 2091 (Unknown)</td>
+  <td>Jessy Ortiz</td>
+  <td>1.711 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-365</td>
+  <td>Destroyed Aug 2121 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-364</td>
+  <td>Destroyed May 2134 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-363</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Kristian Powlowski</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-362</td>
+  <td>Destroyed Dec 2101 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-361</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Annamarie Pagac</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-359</td>
+  <td>Destroyed May 2129 (Unknown)</td>
+  <td>Mya Oberbrunner</td>
+  <td>1.249 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-358</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-356</td>
+  <td>Destroyed Aug 2116 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-355</td>
+  <td>Destroyed May 2085 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-354</td>
+  <td>Destroyed Jul 2108 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-353</td>
+  <td>Destroyed Nov 2086 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-351</td>
+  <td>Destroyed May 2135 (Unknown)</td>
+  <td>Berniece</td>
+  <td>1.779 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-350</td>
+  <td>Destroyed Aug 2121 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-349</td>
+  <td>Destroyed Jan 2123 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-348</td>
+  <td>Destroyed May 2117 (Reactor explosion)</td>
+  <td>Montana Kuphal</td>
+  <td>1.556 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-347</td>
+  <td>Destroyed Jul 2118 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-346</td>
+  <td>Destroyed Sep 2080 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-345</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-344</td>
+  <td>Destroyed Oct 2114 (Depressurization)</td>
+  <td>Angelita Koelpin</td>
+  <td>1.781 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-343</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Michel Kautzer</td>
+  <td>1.719 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-342</td>
+  <td>Destroyed Jun 2096 (Hull breach)</td>
+  <td>Stephanie Schuster</td>
+  <td>1.342 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-341</td>
+  <td>Destroyed Dec 2111 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-340</td>
+  <td>Destroyed Oct 2101 (Electrics related incident)</td>
+  <td>Paul Hilll</td>
+  <td>1.460 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-339</td>
+  <td>Destroyed Oct 2126 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-338</td>
+  <td>Destroyed May 2133 (Water recycling failure)</td>
+  <td>Yolanda</td>
+  <td>1.793 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-337</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Eleanore Larkin</td>
+  <td>1.705 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-336</td>
+  <td>Destroyed Nov 2141 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-335</td>
+  <td>Destroyed Aug 2093 (Oxygen recycling failure)</td>
+  <td>Celestine Lueilwitz</td>
+  <td>1.443 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-334</td>
+  <td>Destroyed Dec 2090 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-333</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-332</td>
+  <td>Destroyed Dec 2105 (Hull breach)</td>
+  <td>Rafaela Schowalter</td>
+  <td>1.513 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-330</td>
+  <td>Destroyed Jan 2110 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-329</td>
+  <td>Destroyed Nov 2088 (Depressurization)</td>
+  <td>Abe</td>
+  <td>1.663 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-328</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Adah</td>
+  <td>1.327 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-326</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-325</td>
+  <td>Destroyed Jun 2108 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-323</td>
+  <td>Destroyed May 2100 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-321</td>
+  <td>Destroyed May 2100 (Water recycling failure)</td>
+  <td>Aylin Walsh</td>
+  <td>1.477 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-320</td>
+  <td>Destroyed Dec 2090 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-319</td>
+  <td>Ghost (All passengers dead)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-318</td>
+  <td>Destroyed Oct 2088 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-317</td>
+  <td>Destroyed Mar 2135 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-315</td>
+  <td>Destroyed Jun 2133 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-314</td>
+  <td>Destroyed Jul 2112 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-313</td>
+  <td>Destroyed Sep 2098 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-312</td>
+  <td>Destroyed Oct 2135 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-311</td>
+  <td>Destroyed Aug 2111 (Unknown)</td>
+  <td>Kaylah</td>
+  <td>1.343 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-310</td>
+  <td>Destroyed May 2097 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-309</td>
+  <td>Destroyed Jan 2104 (Oxygen recycling failure)</td>
+  <td>Mariam Hessel</td>
+  <td>1.561 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-307</td>
+  <td>Destroyed Jun 2117 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-306</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Elsa Schmeler</td>
+  <td>1.239 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-305</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Abigail Mayer</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-304</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Cooper Terry</td>
+  <td>1.219 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-302</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Julien</td>
+  <td>1.226 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-300</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Will</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-299</td>
+  <td>Destroyed Jan 2084 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-298</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-297</td>
+  <td>Destroyed Oct 2108 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-295</td>
+  <td>Destroyed Aug 2113 (Oxygen recycling failure)</td>
+  <td>Johnpaul</td>
+  <td>1.735 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-294</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Murphy</td>
+  <td>1.275 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-293</td>
+  <td>Destroyed Jun 2098 (Unknown)</td>
+  <td>Jannie Brakus</td>
+  <td>1.689 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-292</td>
+  <td>Destroyed Aug 2118 (Electrics related incident)</td>
+  <td>D'angelo Robel</td>
+  <td>1.678 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-290</td>
+  <td>Destroyed Sep 2110 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-289</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-288</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-287</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-286</td>
+  <td>Destroyed Feb 2091 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-285</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Herminia Kshlerin</td>
+  <td>1.343 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-283</td>
+  <td>Destroyed Jan 2111 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-282</td>
+  <td>Destroyed Dec 2137 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-281</td>
+  <td>Destroyed Feb 2126 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-280</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Elouise Nitzsche</td>
+  <td>1.264 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-279</td>
+  <td>Destroyed Jul 2078 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-278</td>
+  <td>Destroyed Jun 2133 (Unknown)</td>
+  <td>Charlene Crist</td>
+  <td>1.363 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-277</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Amparo Smitham</td>
+  <td>1.299 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-276</td>
+  <td>Destroyed Sep 2115 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-275</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-274</td>
+  <td>Destroyed Feb 2117 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-273</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-272</td>
+  <td>Destroyed Feb 2109 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-271</td>
+  <td>Destroyed May 2138 (Depressurization)</td>
+  <td>Miller Casper</td>
+  <td>1.751 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-270</td>
+  <td>Destroyed Feb 2095 (Reactor explosion)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-269</td>
+  <td>Destroyed Oct 2089 (Oxygen recycling failure)</td>
+  <td>Era Fisher</td>
+  <td>1.673 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-268</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Tyree Hodkiewicz</td>
+  <td>1.465 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-267</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-266</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-262</td>
+  <td>Destroyed Aug 2085 (Unusable greenhouse)</td>
+  <td>Orie Johnson</td>
+  <td>1.797 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-261</td>
+  <td>Destroyed Oct 2107 (Depressurization)</td>
+  <td>Jude Gottlieb</td>
+  <td>1.670 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-260</td>
+  <td>Ghost (All passengers dead)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-259</td>
+  <td>Destroyed Aug 2142 (Fire related incident)</td>
+  <td>Camryn</td>
+  <td>1.300 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-258</td>
+  <td>Destroyed Jul 2136 (Water recycling failure)</td>
+  <td>Ena Cassin</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-256</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-254</td>
+  <td>Destroyed Nov 2094 (Reactor explosion)</td>
+  <td>Anika Price</td>
+  <td>1.677 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-253</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-250</td>
+  <td>Destroyed Sep 2118 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-249</td>
+  <td>Destroyed Aug 2090 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-248</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Geoffrey McCullough</td>
+  <td>1.546 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-247</td>
+  <td>Destroyed Nov 2079 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-245</td>
+  <td>Destroyed Feb 2083 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-244</td>
+  <td>Destroyed Nov 2078 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-243</td>
+  <td>Destroyed Oct 2105 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-242</td>
+  <td>Destroyed Oct 2106 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-241</td>
+  <td>Destroyed Apr 2105 (Unusable greenhouse)</td>
+  <td>Montana Brown</td>
+  <td>1.364 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-239</td>
+  <td>Destroyed Aug 2100 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-238</td>
+  <td>Destroyed Sep 2086 (Unusable greenhouse)</td>
+  <td>Kyler</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-236</td>
+  <td>Destroyed Nov 2134 (Water recycling failure)</td>
+  <td>Ariel</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-235</td>
+  <td>Destroyed Feb 2140 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-234</td>
+  <td>Destroyed Nov 2133 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-232</td>
+  <td>Destroyed Oct 2108 (Unknown)</td>
+  <td>Kamron</td>
+  <td>1.765 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-231</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-230</td>
+  <td>Destroyed Jul 2105 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-228</td>
+  <td>Destroyed Sep 2114 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-227</td>
+  <td>Destroyed Jan 2079 (Unusable greenhouse)</td>
+  <td>Rodolfo</td>
+  <td>1.733 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-226</td>
+  <td>Destroyed Aug 2079 (Fire related incident)</td>
+  <td>Marian Greenholt</td>
+  <td>1.269 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-225</td>
+  <td>Destroyed Dec 2087 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-224</td>
+  <td>Destroyed May 2103 (Hull breach)</td>
+  <td>Adam Bernhard</td>
+  <td>1.552 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-223</td>
+  <td>Destroyed Jun 2096 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-222</td>
+  <td>Destroyed Feb 2116 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-221</td>
+  <td>Destroyed Nov 2119 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-220</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Adolfo Hane</td>
+  <td>1.543 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-219</td>
+  <td>Destroyed Feb 2126 (Electrics related incident)</td>
+  <td>Turner</td>
+  <td>1.504 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-218</td>
+  <td>Destroyed Mar 2103 (Oxygen recycling failure)</td>
+  <td>Naomie Bailey</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-216</td>
+  <td>Destroyed Jul 2115 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-214</td>
+  <td>Destroyed Aug 2096 (Unknown)</td>
+  <td>Monserrat Schamberger</td>
+  <td>1.347 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-213</td>
+  <td>Destroyed Mar 2088 (Depressurization)</td>
+  <td>Linnea Treutel</td>
+  <td>1.736 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-210</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-209</td>
+  <td>Destroyed Aug 2112 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-208</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-207</td>
+  <td>Destroyed Oct 2107 (Unknown)</td>
+  <td>Vivian Waelchi</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-206</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-205</td>
+  <td>Destroyed Nov 2079 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-203</td>
+  <td>Destroyed Oct 2091 (Unknown)</td>
+  <td>Roosevelt</td>
+  <td>1.378 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-202</td>
+  <td>Destroyed Mar 2097 (Depressurization)</td>
+  <td>Travon Ledner</td>
+  <td>1.672 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-201</td>
+  <td>Destroyed Jan 2099 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-200</td>
+  <td>Destroyed May 2093 (Water recycling failure)</td>
+  <td>Amalia Bernier</td>
+  <td>1.458 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-198</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-197</td>
+  <td>Destroyed Oct 2090 (Unusable greenhouse)</td>
+  <td>Odell</td>
+  <td>1.299 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-196</td>
+  <td>Destroyed Sep 2114 (Unusable greenhouse)</td>
+  <td>Reggie Funk</td>
+  <td>1.362 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-195</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Keegan Hyatt</td>
+  <td>1.773 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-194</td>
+  <td>Destroyed May 2110 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-193</td>
+  <td>Destroyed Nov 2083 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-191</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-190</td>
+  <td>Destroyed Sep 2136 (Depressurization)</td>
+  <td>Jordyn Jacobson</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-189</td>
+  <td>Ghost (All passengers dead)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-188</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Oliver Keeling</td>
+  <td>1.469 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-186</td>
+  <td>Destroyed Dec 2096 (Oxygen recycling failure)</td>
+  <td>Salma Ullrich</td>
+  <td>1.293 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-185</td>
+  <td>Destroyed Apr 2123 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-184</td>
+  <td>Destroyed Dec 2088 (Unusable greenhouse)</td>
+  <td>Fiona Gleason</td>
+  <td>1.783 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-182</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-181</td>
+  <td>Destroyed Apr 2122 (Depressurization)</td>
+  <td>Delmer Mueller</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-180</td>
+  <td>Destroyed Jul 2139 (Hull breach)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-179</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-178</td>
+  <td>Destroyed May 2089 (Hull breach)</td>
+  <td>Ignatius Schowalter</td>
+  <td>1.294 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-177</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Trinity Kling</td>
+  <td>1.223 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-176</td>
+  <td>Destroyed Jan 2106 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-175</td>
+  <td>Destroyed May 2119 (Unusable greenhouse)</td>
+  <td>Marc</td>
+  <td>1.417 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-174</td>
+  <td>Destroyed Jan 2136 (Hull breach)</td>
+  <td>Anya Keeling</td>
+  <td>1.303 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-173</td>
+  <td>Destroyed Nov 2132 (Oxygen recycling failure)</td>
+  <td>Haleigh Bergnaum</td>
+  <td>1.775 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-172</td>
+  <td>Destroyed May 2106 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-171</td>
+  <td>Destroyed Oct 2095 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-170</td>
+  <td>Destroyed Jan 2113 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-169</td>
+  <td>Destroyed Jun 2090 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-168</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Pierce</td>
+  <td>1.311 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-167</td>
+  <td>Destroyed Sep 2139 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-166</td>
+  <td>Destroyed Jan 2086 (Electrics related incident)</td>
+  <td>Shaun Kemmer</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-165</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Arielle</td>
+  <td>1.466 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-164</td>
+  <td>Destroyed Oct 2119 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-163</td>
+  <td>Destroyed Dec 2130 (Unusable greenhouse)</td>
+  <td>Robyn Marquardt</td>
+  <td>1.441 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-161</td>
+  <td>Destroyed Oct 2109 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-160</td>
+  <td>Destroyed Apr 2121 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-159</td>
+  <td>Destroyed Jul 2130 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-158</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-156</td>
+  <td>Destroyed Aug 2116 (Hull breach)</td>
+  <td>Maci Farrell</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-155</td>
+  <td>Destroyed Apr 2092 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-154</td>
+  <td>Destroyed Aug 2081 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-153</td>
+  <td>Destroyed Mar 2138 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-152</td>
+  <td>Destroyed Oct 2101 (Unusable greenhouse)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-150</td>
+  <td>Destroyed Nov 2111 (Depressurization)</td>
+  <td>Hershel Konopelski</td>
+  <td>1.324 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-149</td>
+  <td>Destroyed Sep 2108 (Unknown)</td>
+  <td>Caleigh</td>
+  <td>1.620 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-148</td>
+  <td>Destroyed Jan 2129 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-147</td>
+  <td>Destroyed Aug 2092 (Depressurization)</td>
+  <td>Tianna Olson</td>
+  <td>1.616 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-146</td>
+  <td>Destroyed Aug 2099 (Depressurization)</td>
+  <td>Francis</td>
+  <td>1.226 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-144</td>
+  <td>Destroyed Mar 2094 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-143</td>
+  <td>Destroyed Oct 2113 (Fire related incident)</td>
+  <td>Ruth</td>
+  <td>1.479 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-141</td>
+  <td>Destroyed Feb 2106 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-140</td>
+  <td>Ghost (All passengers dead)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-139</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-136</td>
+  <td>Ghost (Empty for unknown reasons)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-135</td>
+  <td>Destroyed Nov 2085 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-134</td>
+  <td>Destroyed Mar 2135 (Depressurization)</td>
+  <td>Burdette Hauck</td>
+  <td>1.636 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-132</td>
+  <td>Destroyed Nov 2109 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-131</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-129</td>
+  <td>Ghost (Escape trajectory)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-127</td>
+  <td>Destroyed Jul 2095 (Depressurization)</td>
+  <td>Madelynn Lehner</td>
+  <td>1.648 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-126</td>
+  <td>Destroyed Nov 2127 (Electrics related incident)</td>
+  <td>Louisa</td>
+  <td>1.319 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-125</td>
+  <td>Destroyed Feb 2081 (Unknown)</td>
+  <td>Tyrel</td>
+  <td>1.478 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-124</td>
+  <td>Destroyed Mar 2078 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-123</td>
+  <td>Destroyed Sep 2085 (Reactor explosion)</td>
+  <td>Clovis Bayer</td>
+  <td>1.650 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-121</td>
+  <td>Destroyed May 2079 (Unknown)</td>
+  <td>Orlando Vandervort</td>
+  <td>1.468 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-120</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-119</td>
+  <td>Destroyed Feb 2109 (Fire related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-116</td>
+  <td>Destroyed May 2082 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-115</td>
+  <td>Ghost (All passengers dead)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-113</td>
+  <td>Destroyed Oct 2118 (Depressurization)</td>
+  <td>Julio</td>
+  <td>1.751 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-109</td>
+  <td>Destroyed Oct 2129 (Depressurization)</td>
+  <td>Antonio Dietrich</td>
+  <td>1.295 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-108</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td>Madisen Raynor</td>
+  <td>1.249 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-107</td>
+  <td>Destroyed Jan 2108 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-106</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Leta Stamm</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-105</td>
+  <td>Destroyed Feb 2085 (Water recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-104</td>
+  <td>Destroyed Sep 2112 (Reactor explosion)</td>
+  <td>Loy Bins</td>
+  <td>1.575 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-103</td>
+  <td>Destroyed Jan 2089 (Unusable greenhouse)</td>
+  <td>Keenan</td>
+  <td>1.674 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-102</td>
+  <td>Unknown (Re-entered atmosphere)</td>
+  <td>Benedict Murphy</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-101</td>
+  <td>Destroyed Jun 2117 (Electrics related incident)</td>
+  <td>Jordan</td>
+  <td>1.639 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-100</td>
+  <td>Destroyed Mar 2080 (Depressurization)</td>
+  <td>Juanita</td>
+  <td>1.470 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-099</td>
+  <td>Ghost (All passengers dead)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-098</td>
+  <td>Destroyed Jul 2125 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-097</td>
+  <td>Destroyed Jan 2135 (Reactor explosion)</td>
+  <td>Cristopher Schiller</td>
+  <td>1.221 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-095</td>
+  <td>Destroyed Mar 2127 (Oxygen recycling failure)</td>
+  <td>Virgie Parker</td>
+  <td>1.334 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-093</td>
+  <td>Unknown </td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-092</td>
+  <td>Destroyed Jun 2085 (Hull breach)</td>
+  <td>Arno McKenzie</td>
+  <td>1.235 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-089</td>
+  <td>Destroyed Sep 2084 (Reactor explosion)</td>
+  <td>Odessa Monahan</td>
+  <td>1.481 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-088</td>
+  <td>Unknown (Escape trajectory, no contact)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-086</td>
+  <td>Destroyed Sep 2112 (Depressurization)</td>
+  <td>Brandt Jaskolski</td>
+  <td>1.233 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-085</td>
+  <td>Destroyed Feb 2101 (Electrics related incident)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-083</td>
+  <td>Destroyed Mar 2107 (Depressurization)</td>
+  <td>Esta Wuckert</td>
+  <td>1.694 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-082</td>
+  <td>Destroyed Oct 2122 (Oxygen recycling failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-080</td>
+  <td>Destroyed Jul 2089 (Water recycling failure)</td>
+  <td>Cortez</td>
+  <td>1.287 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-078</td>
+  <td>Destroyed Jul 2126 (Depressurization)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-077</td>
+  <td>Destroyed Mar 2107 (Unknown)</td>
+  <td>Frederik Medhurst</td>
+  <td>1.579 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-076</td>
+  <td>Destroyed Jun 2095 (Unknown)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-073</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-072</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Abner Grant</td>
+  <td>1.547 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-071</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Kade Hansen</td>
+  <td>1.344 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-070</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Charlie Conn</td>
+  <td>1.248 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-069</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-068</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-067</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-066</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Boris Carroll</td>
+  <td>1.479 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-065</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Cornell Aufderhar</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-064</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Keanu Will</td>
+  <td>1.701 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-063</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Janiya Doyle</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-062</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-061</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Emil Cronin</td>
+  <td>1.686 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-060</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Sylvester Hilll</td>
+  <td>1.317 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-059</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Dawn Wilkinson</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-058</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Forest Ondricka</td>
+  <td>1.649 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-057</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-056</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-055</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-054</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Koby Grant</td>
+  <td>1.218 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-053</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Jannie Ledner</td>
+  <td>1.679 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-052</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-051</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Vanessa Wilkinson</td>
+  <td>1.551 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-050</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-049</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-048</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-047</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-046</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Tyrese Grady</td>
+  <td>1.732 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-045</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Ivah Boyer</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-044</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Giovanni</td>
+  <td>1.460 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-043</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Betsy Stanton</td>
+  <td>1.433 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-042</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-041</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-040</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Modesto Grimes</td>
+  <td>1.649 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-039</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Tom Bruen</td>
+  <td>1.211 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-038</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-037</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Alysha Abshire</td>
+  <td>1.211 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-036</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-035</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-034</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-033</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-032</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Josefa Nitzsche</td>
+  <td>1.535 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-031</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Alexie Bosco</td>
+  <td>1.435 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-030</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Jerome</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-029</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Ferne Wehner</td>
+  <td>1.798 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-028</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-027</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-026</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-025</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-024</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-023</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-022</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-021</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-020</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-019</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-018</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Vesta Klein</td>
+  <td>1.497 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-017</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Dusty Anderson</td>
+  <td>1.713 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-016</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-015</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-014</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Burdette</td>
+  <td>1.303 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-013</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-012</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Royal Hayes</td>
+  <td>1.606 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-011</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-010</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Shanie Lang</td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-009</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-008</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-007</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-006</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Velva Rath</td>
+  <td>1.680 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-005</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>London Schuppe</td>
+  <td>1.580 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-004</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-003</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-002</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td>Kyle Johnson</td>
+  <td>1.588 GHz</td>
+</tr>
+  <tr>
+  <td>TEP-001</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+  <tr>
+  <td>TEP-000</td>
+  <td>Destroyed (Orbit regulation software failure)</td>
+  <td></td>
+  <td></td>
+</tr>
+
+</table>
