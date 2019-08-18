@@ -19,6 +19,7 @@ html, body, #menu, #contents, #contents-iframe {
 #contents {
   display: inline-block;
   width: 84%;
+  max-width: 1000px;
   vertical-align: top;
   padding: 10px;
   border-top: 0;
